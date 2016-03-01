@@ -175,7 +175,6 @@ input.sp-selector-5:checked ~ .sp-content .sp-parallax-bg {
     -webkit-transition: left 0.8s ease-in;
     -o-transition: left 0.8s ease-in;
     -moz-transition:  left 0.8s ease-in;
-
 }
 
 .sp-slider > li {
